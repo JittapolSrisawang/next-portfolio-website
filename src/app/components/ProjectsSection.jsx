@@ -12,7 +12,16 @@ const projectsData = [
     image: "/images/projects/1.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/JittapolSrisawang/next-portfolio-website",
-    previewUrl: "https://next-portfolio-website-five.vercel.app",
+    previewUrl: "https://next-portfolio-website-js.vercel.app",
+  },
+  {
+    id: 2,
+    title: "Online Shop (Only Frontend)",
+    description: "Vite + React.js (JavaScript) + Tailwind CSS",
+    image: "/images/projects/2.jpg",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/JittapolSrisawang/react-online-shop",
+    previewUrl: "https://react-online-shop-js.netlify.app",
   },
 ];
 
