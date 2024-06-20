@@ -33,6 +33,15 @@ const projectsData = [
     gitUrl: "https://github.com/JittapolSrisawang/react-online-shop",
     previewUrl: "https://react-online-shop-js.netlify.app",
   },
+  {
+    id: 4,
+    title: "Online Wedding Invitation Card",
+    description: "Next.js (JavaScript) + Tailwind CSS + Ant Design",
+    image: "/images/projects/next_wedding-invitation.png",
+    tag: ["All", "Web"],
+    gitUrl: "",
+    previewUrl: "https://online-wedding-invitation-001.vercel.app/",
+  },
 ];
 
 const ProjectsSection = () => {
